@@ -1,5 +1,4 @@
 # learn-js
 JavaScript tutorial repo
 
-### REPLACE WITH YOUR FULL NAME
-Yiwei Wang
+### Yiwei Wang
